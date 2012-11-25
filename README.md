@@ -78,7 +78,4 @@ Credits
 
 The Mininet Team:
 
-    Bob Lantz
-    Brandon Heller
-    Nikhil Handigol
-    Vimal Jeyakumar
+Students of PESIT
